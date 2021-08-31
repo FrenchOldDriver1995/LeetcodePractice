@@ -1,4 +1,6 @@
-开始练习用C/C++刷题
+开始练习用C/C++刷题\
+注意C++中的vector类似java的List，他的大小是.size()
+
 ```C
 class Solution {
 public:
