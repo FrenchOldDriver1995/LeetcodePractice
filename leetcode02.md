@@ -3,7 +3,7 @@
 空值是NULL, 类型中的属性用->表示
 
 关于判断： p!=NULL 可以直接写p, 三目运算符那里也如此
-```
+```C
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
