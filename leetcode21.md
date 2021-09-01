@@ -23,7 +23,7 @@ public:
         if(!l1)cur->next = l2;
         else cur->next = l1;
 
-        return fake->next;
+        return fake->next; 
     }
 };
 ```
